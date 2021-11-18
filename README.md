@@ -1,2 +1,3 @@
 # ImageEncryption
 In this project we are encrypting and decrypting image using DSE Algorithm with java.
+Many digital services require consistent security in storage and transmission of digital images. Due to the quick growth of the Internet in the world, nowadays, the safety of digital images has turned into more necessary and much more involved attention. In order to fulfill the security requirements of digital images, many image encryption approaches have been used. Encryption algorithms of digital images are further important and should be used to stop enemy attacks from illegal access. Encryption is the secure method for data transmission. There are different encryption systems to encrypt and decrypt image data.
